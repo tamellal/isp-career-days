@@ -2422,19 +2422,6 @@
          "tilecount":528,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":15,
-         "firstgid":2522,
-         "image":"..\/isp-github\/ISP\/tilesets\/isp-logo.png",
-         "imageheight":500,
-         "imagewidth":500,
-         "margin":0,
-         "name":"isp-logo",
-         "spacing":0,
-         "tilecount":0,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
