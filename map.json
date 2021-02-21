@@ -3004,6 +3004,19 @@
          "tilecount":2116,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":15,
+         "firstgid":9136,
+         "image":"tilesets\/profile.png",
+         "imageheight":500,
+         "imagewidth":500,
+         "margin":0,
+         "name":"profile",
+         "spacing":0,
+         "tilecount":225,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
