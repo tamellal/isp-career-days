@@ -3017,6 +3017,19 @@
          "tilecount":225,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":46,
+         "firstgid":9361,
+         "image":"tilesets\/main_logo.png",
+         "imageheight":1500,
+         "imagewidth":1500,
+         "margin":0,
+         "name":"main_logo",
+         "spacing":0,
+         "tilecount":2116,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
