@@ -509,7 +509,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/docs.google.com\/document\/d\/10jPHcKvSMTVNeAOoWh2ytUD56K7seg57VajFpmwmFiQ\/edit?fbclid=IwAR2y0kmk__mY0iTB8yPiUlJUBsVJQS6IgRcfhS7zsOtXwHYTf1RwRoFYK20"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -527,7 +527,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/tQgHoVjVuQY?rel=0&autoplay=1"
+                 "value":"https:\/\/www.youtube.com\/embed\/tQgHoVjVuQY?autoplay=1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -581,7 +581,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/docs.google.com\/document\/d\/1FhOjTgVaNKvWc6WJqRP5GwqzAOm4UgHbrq1ymujP6EI\/edit?fbclid=IwAR2fQfxSgMLrQYZANhZEgNGIDFSRLdu09jj2lLU7a0Vw-wvg8JlbT8VwIGg"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -617,7 +617,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/docs.google.com\/document\/d\/10N9afdj0_k0IUeiCksQrt4DN_8--a7hYOMe-XzoozJ8\/edit?fbclid=IwAR1CrJK7a4dIYqu2xFiKld3EFQFln6LgPSnZ9wuOZIE5-LEhkG7EB6UC3a4"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -653,7 +653,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/docs.google.com\/document\/d\/1GigzZupfJJzrJV0XL5Ls1z9Fhzl5vhBJtdlIzq2wfj4\/edit?fbclid=IwAR3tK-SENxXZRQdCygaMDIQ1P23gPMAcgi6HulrkQPyrzpnCMLxtg8T0-F4"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -689,7 +689,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/docs.google.com\/document\/d\/193dLggboThwInSiW7o5sWNoszXqRUm7FF3JuVu8NBeo\/edit?fbclid=IwAR3ILlxNCgRW2AxCAXufOtem9lvW4oLFj58ShmyorMY4Y-U1DSzVW8pdHaM"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -797,7 +797,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/docs.google.com\/document\/d\/1uB9xmDNjRybkaVzWSbMKhQgydrwk5k2pSoVL4guFP6Q\/edit?fbclid=IwAR1-B-ivj1QNyZ45GskVVQ72XQzwjlvQAgeS4polV9O0gSXPyYtGlNGBHPU"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -815,7 +815,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/LeJYrZPEkrY?rel=0&autoplay=1"
+                 "value":"https:\/\/www.youtube.com\/embed\/LeJYrZPEkrY?autoplay=1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -905,7 +905,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/docs.google.com\/document\/d\/1NAJc4_BS38hj1anzo8E9RSYnZ_g1pOIC5MmSE75RNeA\/edit?fbclid=IwAR27hJ1-uej3ah9XHRFWwVpNOdCfOPP7pslUJhSVa3dcI_aq83PgYeax25c"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -941,7 +941,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/docs.google.com\/document\/d\/11i5kgLrRWBQaIZZh3uvyaXPfZyw-ogCbdI7PF-XWpQA\/edit?fbclid=IwAR1tCnyjQEhILJWhuO_TkGl81rb93P6GBrjuavr1XMzRn3GORa_VTqmdEu8"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1049,7 +1049,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/docs.google.com\/document\/d\/1kf5g86285NW04A_xACdyvQJcd2fSWTz9n3m1Rwvptns\/edit?fbclid=IwAR22cLpxltVCnI6rSILAcOVkTjdUalP2VBaCng5EsoJhj1m1ewzEGDcxeR4"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1121,7 +1121,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/docs.google.com\/document\/d\/1YcJLDkQQ9Vw8SE4S5DTR3McPJybiQ96VZ1uk703nuYg\/edit?fbclid=IwAR1cDFfeZRjokRNyZgbb2_BcNDAX6-85p-uDK05u1zm3-A-DK5GPkzkPW_g"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1139,7 +1139,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/z3rEBoSbkkg?rel=0&autoplay=1"
+                 "value":"https:\/\/www.youtube.com\/embed\/z3rEBoSbkkg?autoplay=1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1193,7 +1193,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/docs.google.com\/document\/d\/1KhqEzdBOtsXnguwaIullO6t_iuELgK6hgxOnWRX-NdQ\/edit?fbclid=IwAR2k5JW9x-OMhU-t-b5guKwLtZDHf1JxaieNVUxr9asLTQDxQhMQ1tiMREI"
                 }],
          "type":"tilelayer",
          "visible":true,
