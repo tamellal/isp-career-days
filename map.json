@@ -16,7 +16,7 @@
          "name":"base",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -39,7 +39,7 @@
                  "value":"sponsor1"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -62,7 +62,7 @@
                  "value":"sponsor2"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -85,7 +85,7 @@
                  "value":"sponsor3"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -108,7 +108,7 @@
                  "value":"sponsor4"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -131,7 +131,7 @@
                  "value":"sponsor5"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -154,7 +154,7 @@
                  "value":"sponsor6"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -177,7 +177,7 @@
                  "value":"sponsor7"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -200,7 +200,7 @@
                  "value":"sponsor8"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -223,7 +223,7 @@
                  "value":"sponsor9"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -246,7 +246,7 @@
                  "value":"sponsor10"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -269,7 +269,7 @@
                  "value":"sponsor11"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -292,7 +292,7 @@
                  "value":"sponsor12"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -315,7 +315,7 @@
                  "value":"sponsor13"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -338,7 +338,7 @@
                  "value":"sponso14"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -361,7 +361,7 @@
                  "value":"sponsor15"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -384,7 +384,7 @@
                  "value":"sponsor16"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -407,7 +407,7 @@
                  "value":"sponsor17"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -430,7 +430,7 @@
                  "value":"sponsor18"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -453,7 +453,7 @@
                  "value":"sponsor19"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -476,7 +476,7 @@
                  "value":"sponsor20"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -494,7 +494,7 @@
                  "value":""
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -512,7 +512,7 @@
                  "value":"https:\/\/docs.google.com\/document\/d\/10jPHcKvSMTVNeAOoWh2ytUD56K7seg57VajFpmwmFiQ\/edit?fbclid=IwAR2y0kmk__mY0iTB8yPiUlJUBsVJQS6IgRcfhS7zsOtXwHYTf1RwRoFYK20"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -530,7 +530,7 @@
                  "value":"https:\/\/www.youtube.com\/embed\/tQgHoVjVuQY?autoplay=1"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -548,7 +548,7 @@
                  "value":"https:\/\/docs.google.com\/document\/d\/18yU4zDJGUoH52DML25pFbwgXslC2ftpYqKj4IhEoVj0\/edit?fbclid=IwAR1PZYSdp4y--5exPlcEf36hHAic7pWvelxb2RE0MvdS7jYImr2BsiuO-fI"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -566,7 +566,7 @@
                  "value":""
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -584,7 +584,7 @@
                  "value":"https:\/\/docs.google.com\/document\/d\/1FhOjTgVaNKvWc6WJqRP5GwqzAOm4UgHbrq1ymujP6EI\/edit?fbclid=IwAR2fQfxSgMLrQYZANhZEgNGIDFSRLdu09jj2lLU7a0Vw-wvg8JlbT8VwIGg"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -602,7 +602,7 @@
                  "value":""
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -620,7 +620,7 @@
                  "value":"https:\/\/docs.google.com\/document\/d\/10N9afdj0_k0IUeiCksQrt4DN_8--a7hYOMe-XzoozJ8\/edit?fbclid=IwAR1CrJK7a4dIYqu2xFiKld3EFQFln6LgPSnZ9wuOZIE5-LEhkG7EB6UC3a4"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -638,7 +638,7 @@
                  "value":"https:\/\/www.youtube.com\/embed\/5w-v2T0VeBA?rel=0&autoplay=1"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -656,7 +656,7 @@
                  "value":"https:\/\/docs.google.com\/document\/d\/1GigzZupfJJzrJV0XL5Ls1z9Fhzl5vhBJtdlIzq2wfj4\/edit?fbclid=IwAR3tK-SENxXZRQdCygaMDIQ1P23gPMAcgi6HulrkQPyrzpnCMLxtg8T0-F4"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -674,7 +674,7 @@
                  "value":""
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -692,7 +692,7 @@
                  "value":"https:\/\/docs.google.com\/document\/d\/193dLggboThwInSiW7o5sWNoszXqRUm7FF3JuVu8NBeo\/edit?fbclid=IwAR3ILlxNCgRW2AxCAXufOtem9lvW4oLFj58ShmyorMY4Y-U1DSzVW8pdHaM"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -710,7 +710,7 @@
                  "value":""
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -728,7 +728,7 @@
                  "value":""
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -746,7 +746,7 @@
                  "value":""
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -764,7 +764,7 @@
                  "value":""
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -782,7 +782,7 @@
                  "value":""
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -800,7 +800,7 @@
                  "value":"https:\/\/docs.google.com\/document\/d\/1uB9xmDNjRybkaVzWSbMKhQgydrwk5k2pSoVL4guFP6Q\/edit?fbclid=IwAR1-B-ivj1QNyZ45GskVVQ72XQzwjlvQAgeS4polV9O0gSXPyYtGlNGBHPU"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -818,7 +818,7 @@
                  "value":"https:\/\/www.youtube.com\/embed\/LeJYrZPEkrY?autoplay=1"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -836,7 +836,7 @@
                  "value":""
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -854,7 +854,7 @@
                  "value":"https:\/\/www.youtube.com\/embed\/MIeDdf0-aU0?rel=0&autoplay=1"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -872,7 +872,7 @@
                  "value":""
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -890,7 +890,7 @@
                  "value":""
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -908,7 +908,7 @@
                  "value":"https:\/\/docs.google.com\/document\/d\/1NAJc4_BS38hj1anzo8E9RSYnZ_g1pOIC5MmSE75RNeA\/edit?fbclid=IwAR27hJ1-uej3ah9XHRFWwVpNOdCfOPP7pslUJhSVa3dcI_aq83PgYeax25c"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -926,7 +926,7 @@
                  "value":"https:\/\/www.youtube.com\/embed\/MIeDdf0-aU0?autoplay=1"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -944,7 +944,7 @@
                  "value":"https:\/\/docs.google.com\/document\/d\/11i5kgLrRWBQaIZZh3uvyaXPfZyw-ogCbdI7PF-XWpQA\/edit?fbclid=IwAR1tCnyjQEhILJWhuO_TkGl81rb93P6GBrjuavr1XMzRn3GORa_VTqmdEu8"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -962,7 +962,7 @@
                  "value":""
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -980,7 +980,7 @@
                  "value":""
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -998,7 +998,7 @@
                  "value":""
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -1016,7 +1016,7 @@
                  "value":""
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -1034,7 +1034,7 @@
                  "value":""
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -1052,7 +1052,7 @@
                  "value":"https:\/\/docs.google.com\/document\/d\/1kf5g86285NW04A_xACdyvQJcd2fSWTz9n3m1Rwvptns\/edit?fbclid=IwAR22cLpxltVCnI6rSILAcOVkTjdUalP2VBaCng5EsoJhj1m1ewzEGDcxeR4"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -1070,7 +1070,7 @@
                  "value":""
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -1088,7 +1088,7 @@
                  "value":""
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -1106,7 +1106,7 @@
                  "value":""
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -1124,7 +1124,7 @@
                  "value":"https:\/\/docs.google.com\/document\/d\/1YcJLDkQQ9Vw8SE4S5DTR3McPJybiQ96VZ1uk703nuYg\/edit?fbclid=IwAR1cDFfeZRjokRNyZgbb2_BcNDAX6-85p-uDK05u1zm3-A-DK5GPkzkPW_g"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -1142,7 +1142,7 @@
                  "value":"https:\/\/www.youtube.com\/embed\/z3rEBoSbkkg?autoplay=1"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -1160,7 +1160,7 @@
                  "value":"https:\/\/docs.google.com\/document\/d\/1RRabbQhxy2Gafy7xh1H9ucsfm3MZTQRciS1tEuk6zgQ\/edit?fbclid=IwAR22cLpxltVCnI6rSILAcOVkTjdUalP2VBaCng5EsoJhj1m1ewzEGDcxeR4"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -1178,7 +1178,7 @@
                  "value":""
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -1196,7 +1196,7 @@
                  "value":"https:\/\/docs.google.com\/document\/d\/1KhqEzdBOtsXnguwaIullO6t_iuELgK6hgxOnWRX-NdQ\/edit?fbclid=IwAR2k5JW9x-OMhU-t-b5guKwLtZDHf1JxaieNVUxr9asLTQDxQhMQ1tiMREI"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -1208,7 +1208,7 @@
          "name":"gardenBase",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -1220,7 +1220,7 @@
          "name":"gardenFountain",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -1232,7 +1232,7 @@
          "name":"garden",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -1256,7 +1256,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -1268,7 +1268,7 @@
          "name":"entrance",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -1280,7 +1280,7 @@
          "name":"carpet",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -1292,7 +1292,7 @@
          "name":"banners",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -1310,7 +1310,7 @@
                  "value":"https:\/\/seoul.lafrenchtech.com\/"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -1328,7 +1328,7 @@
                  "value":"https:\/\/poolside.fm\/"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -1340,7 +1340,7 @@
          "name":"decor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -1352,7 +1352,7 @@
          "name":"tableDecor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -1364,7 +1364,7 @@
          "name":"equip",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -1376,7 +1376,7 @@
          "name":"balloons",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -1388,7 +1388,7 @@
          "name":"food",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -1400,7 +1400,7 @@
          "name":"signages",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -1412,7 +1412,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
@@ -1423,7 +1423,7 @@
          "name":"hover2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -1435,7 +1435,7 @@
          "name":"hover",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":78,
          "x":0,
          "y":0
@@ -2157,6 +2157,24 @@
                         }]
                 }, 
                 {
+                 "id":46,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":47,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
                  "id":48,
                  "properties":[
                         {
@@ -2221,6 +2239,24 @@
                 }, 
                 {
                  "id":55,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":56,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":57,
                  "properties":[
                         {
                          "name":"collides",
