@@ -733,7 +733,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/www.youtube.com\/embed\/pWnhNceaqBg"
                 }],
          "type":"tilelayer",
          "visible":true,
