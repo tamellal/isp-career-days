@@ -328,16 +328,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"cortambert"
-                }, 
-                {
-                 "name":"jitsiRoomAdminTag",
-                 "type":"string",
-                 "value":"cortambertAdmin"
-                }, 
-                {
                  "name":"jitsiUrl",
                  "type":"string",
                  "value":"meet.jit.si"
