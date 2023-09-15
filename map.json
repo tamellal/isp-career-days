@@ -234,7 +234,7 @@
                 {
                  "name":"jitsiUrl",
                  "type":"string",
-                 "value":"meet.jit.si"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -362,7 +362,7 @@
                 {
                  "name":"jitsiUrl",
                  "type":"string",
-                 "value":"meet.jit.si"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -490,7 +490,7 @@
                 {
                  "name":"jitsiUrl",
                  "type":"string",
-                 "value":"meet.jit.si"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -618,7 +618,7 @@
                 {
                  "name":"jitsiUrl",
                  "type":"string",
-                 "value":"meet.jit.si"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -746,7 +746,7 @@
                 {
                  "name":"jitsiUrl",
                  "type":"string",
-                 "value":"meet.jit.si"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -874,7 +874,7 @@
                 {
                  "name":"jitsiUrl",
                  "type":"string",
-                 "value":"meet.jit.si"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1002,7 +1002,7 @@
                 {
                  "name":"jitsiUrl",
                  "type":"string",
-                 "value":"meet.jit.si"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1130,7 +1130,7 @@
                 {
                  "name":"jitsiUrl",
                  "type":"string",
-                 "value":"meet.jit.si"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1258,7 +1258,7 @@
                 {
                  "name":"jitsiUrl",
                  "type":"string",
-                 "value":"meet.jit.si"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1386,7 +1386,7 @@
                 {
                  "name":"jitsiUrl",
                  "type":"string",
-                 "value":"meet.jit.si"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1514,7 +1514,7 @@
                 {
                  "name":"jitsiUrl",
                  "type":"string",
-                 "value":"meet.jit.si"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1642,7 +1642,7 @@
                 {
                  "name":"jitsiUrl",
                  "type":"string",
-                 "value":"meet.jit.si"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1898,7 +1898,7 @@
                 {
                  "name":"jitsiUrl",
                  "type":"string",
-                 "value":"meet.jit.si"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -2026,7 +2026,7 @@
                 {
                  "name":"jitsiUrl",
                  "type":"string",
-                 "value":"meet.jit.si"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
